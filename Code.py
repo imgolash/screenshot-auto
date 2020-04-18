@@ -1,5 +1,5 @@
 import pyautogui as him
 
-mymobscreen=him.screenshot()
+mypcscreen=him.screenshot()
 
-mymobscreen.save("C:/User/mypic.jpeg")
+mypcscreen.save("C:/User/mypic.jpeg")
